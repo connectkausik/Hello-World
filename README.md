@@ -1,3 +1,5 @@
 # Hello-World
 
-Main Branch is already different
+
+First shot at learing GIT
+
